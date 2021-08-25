@@ -42,5 +42,17 @@
         ],
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Volkswagen Touareg",
+        "image": "img/products/2021-vw-touareg-r.webp",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "Volkswagen Touareg",
+        "price": 85000
+
     }
 ]
