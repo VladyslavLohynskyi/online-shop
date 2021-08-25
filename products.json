@@ -48,10 +48,10 @@
         "title": "Volkswagen Touareg",
         "image": "img/products/2021-vw-touareg-r.webp",
         "additionalImages": [
-            "https://placekitten.com/203/139",
-            "https://placekitten.com/204/139?2"
+            "img/products/vw-indoor.webp",
+            "img/products/2021-vw-touareg-r-font.jpg"
         ],
-        "description": "Volkswagen Touareg",
+        "description": "The Volkswagen Touareg is a large premium SUV with a spacious cabin, a practical boot and a bang-up-to-date infotainment system but it still doesn’t feel as posh inside as some alternatives.",
         "price": 85000
 
     }
